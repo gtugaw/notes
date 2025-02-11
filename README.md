@@ -6,7 +6,8 @@
 
 ## Schedule
 - Monday
- - 13:00 - [COMP1238 - Data Mgmnt](https://learn.georgebrown.ca/d2l/home/334969)
- - 16:00 - COMP0000 - Not a real course
+  - 10:00 - [COMP1236 - Fundamentals of Computing Logic](https://learn.georgebrown.ca/d2l/home/337951)
+  - 13:00 - [COMP1238 - Introduction to Data Management](https://learn.georgebrown.ca/d2l/home/334969)
+  - 16:00 - [COMP1151 - IT Essentials](https://learn.georgebrown.ca/d2l/home/335096)
 - Tuesday
- - 08:00 - MATH1162 - College Mathematics
+  - 14:00 - [MATH1162 - Math for Computer Technology 1](https://learn.georgebrown.ca/d2l/home/319863)
